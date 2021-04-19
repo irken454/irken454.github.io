@@ -1,0 +1,403 @@
+                                    /*header*/
+#header
+{
+position: absolute;
+width: 1536px;
+height: 102px;
+left: 0px;
+top: 0px;
+background-color:palegoldenrod;
+margin: 0px;
+}
+
+#headerenter
+{
+position: absolute;
+width: auto;
+height: auto;
+right: 150px;
+top: 35px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+color: black;
+}
+
+#headerlogo
+{
+float: left;
+position: absolute;
+margin-top: 5px;
+left: 25px;
+}
+
+#headerregister
+{
+position: absolute;
+width: auto;
+height: auto;
+left: 150px;
+top: 35px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri , 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+color: black;
+}
+
+#headerreservation
+{
+position: absolute;
+width: auto;
+height: auto;
+left: 670px;
+top: 35px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+color: black;
+}
+
+
+                                      /*menu*/
+#menu
+{
+position: absolute;
+margin-bottom: 0px;
+width: 1536px;
+height: 49px;
+left: 0px;
+top: 102px;
+background: #2D56AB;
+}
+
+#submenu1
+{
+position: absolute;
+width: 384px;
+height: 49px;
+left: 0px;
+top: 0px;
+}
+
+#submenu2
+{
+position: absolute;
+width: 384px;
+height: 49px;
+left: 385px;
+top: 0px;
+}
+
+#submenu3
+{
+position: absolute;
+width: 384px;
+height: 49px;
+left: 769px;
+top: 0px;
+}
+
+#submenu4
+{
+position: absolute;
+width: 384px;
+height: 49px;
+left: 1152px;
+top: 0px;
+}
+
+#submenu1text
+{
+position: absolute;
+width: auto;
+height: auto;
+left: 110px;
+top: 10px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 100;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+#submenu2text
+{
+position: absolute;
+width: auto;
+height: auto;
+left: 150px;
+top: 10px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 100;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+#submenu3text
+{
+position: absolute;
+width: auto;
+height: auto;
+left: 120px;
+top: 10px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 100;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+#submenu4text
+{
+position: absolute;
+width: auto;
+height: auto;
+right: 110px;
+top: 10px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 100;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+
+
+                                    /*content*/
+#content
+{
+position: absolute;
+width: 1536px;
+height: 640px;
+left: 0px;
+top: 151px;
+background-image: url(fon.jpg);
+}
+
+#subcontent
+{
+position: absolute;
+width: auto;
+height: auto;
+left: 200px;
+top: 50px;
+}
+
+#subcontent1
+{
+position: absolute;
+width: auto;
+height: auto;
+left: 100px;
+top: 200px;
+}
+
+#subcontenttext
+{
+position: absolute;
+width: 500px;
+height: auto;
+left: 0px;
+top: 0px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 545;
+text-shadow: palegoldenrod 0 0 4px;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: left;
+color: whitesmoke;
+}
+
+#subcontent1text
+{
+position: absolute;
+width: 600px;
+height: auto;
+left: 0px;
+top: 0px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 545;
+text-shadow: palegoldenrod 0 0 4px;
+font-size: 24px;
+line-height: 33px;
+display: flex;
+align-items: center;
+text-align: left;
+color: whitesmoke;
+}
+
+
+
+
+                                    /*footer*/
+#footer
+{
+position: absolute;
+width: 1536px;
+height: 100px;
+left: 0px;
+top: 679px;
+opacity: .7;
+background-color: antiquewhite;
+}
+
+#frame1
+{
+position: absolute;
+width: auto;
+height: auto;
+left: 150px;
+top: 15px;
+font-family: 'Gill Sans', 'Gill Sans MT', Arial, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+color: black;
+}
+
+#frame2
+{
+position: absolute;
+width: auto;
+height: auto;
+left: 150px;
+top: 35px;
+font-family: 'Gill Sans', 'Gill Sans MT', Arial, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+color: black;
+}
+
+#frame4
+{
+position: absolute;
+width: auto;
+height: auto;
+left: 150px;
+top: 55px;
+font-family: 'Gill Sans', 'Gill Sans MT', Arial, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+color: black;
+}
+
+
+#frame3
+{
+position: absolute;
+width: auto;
+height: auto;
+right: 99px;
+top: 35px;
+font-family: 'Gill Sans', 'Gill Sans MT', Arial, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+color: black;
+}
+
+#frame5
+{
+position: absolute;
+width: auto;
+height: auto;
+right: 170px;
+top: 55px;
+font-family: 'Gill Sans', 'Gill Sans MT', Arial, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+color: black;
+}
+
+#frame6
+{
+position: absolute;
+width: auto;
+height: auto;
+right: 150px;
+top: 15px;
+font-family: 'Gill Sans', 'Gill Sans MT', Aial, 'Trebuchet MS', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
+color: black;
+}
+
+#footerlogo
+{
+float: left;
+position: absolute;
+margin-top: 15px;
+left: 625px;
+}
+
+#footerlogo1
+{
+float: left;
+position: absolute;
+margin-top: 22px;
+left: 565px; 
+}
